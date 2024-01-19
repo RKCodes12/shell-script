@@ -1,2 +1,4 @@
-#Hello
-hi this is my shell script file 
+#!/bin/bash
+# this is my first comment
+
+echo "Hello Shell Scrpit"
