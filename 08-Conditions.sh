@@ -1,7 +1,7 @@
 #!/bin/bash
  NUMBER=$1
 
-if [ $NUMBER -gt 0 ]
+if [ $NUMBER -gt 100 ]
 then 
     echo "Give Number $NUMBER is greater then 100"
 else 
