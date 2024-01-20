@@ -6,7 +6,7 @@ if [ $1 -ne 0 ]
 then 
     echo "ERROR ::  $2 is failed"
     exit 1
-elase
+else
     echo " $2 success"
 fi
 }
